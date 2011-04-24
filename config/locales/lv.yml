@@ -29,7 +29,7 @@ lv:
         firstname: "First Name"
         last_name_begins_with: "Uzvārds sākas ar"
         lastname: "Last Name"
-        phone: "Telefons"
+        phone: "Tālrunis"
         state: "Rajons"
         zipcode: "Pasta indekss"
       checkout: 
@@ -445,7 +445,7 @@ lv:
   height: "Augstums"
   hello_user: "Sveiks lietotāj"
   history: "Vēsture"
-  home: "Mājas"
+  home: "Sākumlapa"
   icon: "Icon"
   icons_by: "Ikonas"
   image: "Attēls"
@@ -500,12 +500,12 @@ lv:
   login: Login
   login_as_existing: "Pieslēgties kā esošais klients"
   login_failed: "Pieslēgšanās sistēmai neizdevās."
-  login_name: "Ielagoties"
-  logout: "Izlagoties"
-  look_for_similar_items: "Meklēt līdzīgas vienības"
+  login_name: "Lietotāja vārds"
+  logout: "Iziet"
+  look_for_similar_items: "Meklēt līdzīgus produktus"
   maestro_or_solo_cards: "Maestro/Solo kartes"
   mail_delivery_enabled: "Pasta sūtīšana ir atļauta"
-  mail_delivery_not_enabled: "Pasta sūtīšana nav atļauta"
+  mail_delivery_not_enabled: "E-pasta sūtīšana nav aktivizēta"
   mail_methods: Mail Methods
   mail_server_preferences: Mail Server Preferences
   make_refund: Make refund
@@ -528,7 +528,7 @@ lv:
   new_billing_integration: New Billing Integration
   new_category: "Jauna kategorija"
   new_customer: "Jauns klients"
-  new_image: "Jauns tēls"
+  new_image: "Jauns bilde"
   new_mail_method: New Mail Method
   new_option_type: "Jauns opciju tips"
   new_option_value: "Jauna opcijas vērtība"
