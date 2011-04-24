@@ -7,7 +7,7 @@ lv:
   abbreviation: "Saīsinājums"
   access_denied: "Pieeja liegta"
   account: "Konts"
-  account_updated: "Konts izmainīts!"
+  account_updated: "Lietotāja informācija izmainīta!"
   action: "Darbība"
   actions: 
     cancel: "Atcelt"
@@ -303,7 +303,7 @@ lv:
   charge_total: "Kopējā summa"
   charged: "Samaksāts"
   charges: Charges
-  checkout: Checkout
+  checkout: "Pasūtīšana"
   cheque: "Čeks"
   city: "Pilsēta"
   clone: "Klonēt"
@@ -317,7 +317,7 @@ lv:
   configured: "Konfigurēts"
   confirm: "Apstiprini"
   confirm_delete: "Apstiprināt izdzēšanu"
-  confirm_password: "Paroles apstiprinājums"
+  confirm_password: "Parole (otrreiz)"
   continue: "Turpināt"
   continue_shopping: "Turpināt iepirkšanos"
   copy_all_mails_to: "Kopēt visas vēstules uz"
@@ -383,8 +383,8 @@ lv:
   email: "E-pasts"
   email_address: "Epasta adrese"
   email_server_settings_description: "E-pasta servera uzstādījumi."
-  empty: "Empty"
-  empty_cart: "Tukšs grozs"
+  empty: "Tukšs"
+  empty_cart: "Iztukšot grozu"
   enable_login_via_login_password: "Izmanto standarta e-pastu/paroli"
   enable_login_via_openid: "Tā vietā izmantot atvērto ID"
   enable_mail_delivery: "Atļaut pasta sūtīšanu"
@@ -439,7 +439,7 @@ lv:
   google_analytics_id: "Analītiķa ID"
   google_analytics_new: "Jauns Google analītiķa konts"
   google_analytics_setting_description: "Pārvaldīt Google analītiķa ID"
-  guest_checkout: "Ciemiņa izrakstīšanās"
+  guest_checkout: "Pasūtīšana nereģistrējotie"
   guest_user_account: "Izrakstīties kā ciemiņam"
   has_no_shipped_units: "Nav nosūtītu vienību"
   height: "Augstums"
@@ -455,7 +455,8 @@ lv:
   include_in_shipment: "Iekļaut sūtijumā"
   included_in_other_shipment: "Iekļauts citā sūtijumā"
   included_in_this_shipment: "Iekļauts šajā sūtijumā"
-  instructions_to_reset_password: "Aizpildiet formu zemāk un uz e-pastu tiks nosūtīta instrukcija kā atjaunot paroli:"
+  instructions_to_reset_password: "Aizpildiet formu zemāk un uz e-pastu tiks nosūtīta instrukcija kā 
+   paroli:"
   integration_settings_warning: "Pirms mainīt norēķinu integrāciju, vispirms vajag saglabāt esošos iestādījumus"
   intercept_email_address: Intercept Email Address
   intercept_email_instructions: "Override email recipient and replace with this address."
@@ -491,8 +492,8 @@ lv:
   listing_tax_categories: "Uzskaitāmā nodokļu kategorija"
   listing_users: "Uzskaitāmie lietotāji"
   live: "Live"
-  loading: "Lādējās"
-  locale_changed: "Darbības vieta izmainīta"
+  loading: "Notiek ielāde"
+  locale_changed: "Valoda nomainīta"
   log_in: "Pieslēgties"
   logged_in_as: "Pieslēgties kā"
   logged_in_succesfully: "Pieslēgšanās veiksmīga"
@@ -519,7 +520,7 @@ lv:
   minimal_amount: "Minimal Amount"
   missing_required_information: "Trūkst prasītās informācijas"
   month: "Mēnesis"
-  my_account: "Mans konts"
+  my_account: "Mana informācija"
   my_orders: "Mani pasūtījumi"
   name: "Nosaukums"
   name_or_sku: "Vārds vai SKU"
@@ -558,7 +559,7 @@ lv:
   no_items_in_cart: ""
   no_match_found: "Nekas netika atrasts"
   no_payment_methods_available: "Nevar noslēgt darījumu, nekāda maksājuma metode nav konfigurēta šai videi"
-  no_products_found: "Nav atrasts nekāds produkts"
+  no_products_found: "Neviens produkts nav atrasts"
   no_results: "No results"
   no_rules_added: No rules added
   no_user_found: "Neviens lietotājs netika atrasts ar šādu e-pasta adresi"
@@ -648,7 +649,7 @@ lv:
   payment_state: Payment State
   payment_states: 
     balance_due: balance due
-    checkout: checkout
+    checkout: "Pasūtīt"
     completed: completed
     credit_owed: credit owed
     failed: failed
@@ -663,7 +664,7 @@ lv:
   phone: "Telefons"
   place_order: "Veikt pasūtījumu"
   please_create_user: "Lūdzu izveidojiet lietotāja kontu"
-  powered_by: "Powered by"
+  powered_by: "Veikals veidots ar"
   presentation: "Prezentācija"
   preview: "Pārskats"
   previous: "Iepriekšējais"
@@ -683,7 +684,7 @@ lv:
   product_has_no_description: "Šim produktam nav nosaukuma"
   product_properties: "Produkta īpašības"
   product_rule: 
-    choose_products: Choose products
+    choose_products: Izvēlaties produktus
     label: "Order must contain %{select} of these products"
     match_all: all
     match_any: at least one
@@ -845,7 +846,7 @@ lv:
   received: "Saņemts"
   refund: "Atmaksāt"
   register: "Reģistrēties kā jauns lietotājs"
-  register_or_guest: Checkout as Guest or Register
+  register_or_guest: "Pasūtiet nereģistrējoties vai reģistrējaties"
   registration: "Reģistrācija"
   remember_me: "Atcerēties mani"
   remove: "Noņemt"
@@ -859,7 +860,7 @@ lv:
     member_object_not_found: "Objekts nav atrasts."
     successfully_created: "Veiksmīgi izveidots!"
     successfully_removed: "Veiksmīgi noņemts!"
-    successfully_updated: "Veiksmīgi atjaunots!"
+    successfully_updated: "Izmaiņas veiktas!"
   response_code: "Reakcijas kods"
   resume: "atsākt"
   resumed: "Atsākts"
@@ -971,7 +972,7 @@ lv:
   states: States
   status: "Status"
   stop: "Stop"
-  store: "Saglabāt"
+  store: "Veikals"
   street_address: "Ielas adrese"
   street_address_2: "Ielas adrese (turpinājums)"
   subtotal: "Starpsumma"
@@ -1008,7 +1009,7 @@ lv:
   thumbnail: "Thumbnail"
   to_add_variants_you_must_first_define: "Lai pievienotu variantu, vispirms definējiet"
   to_state: "To State"
-  top_grossing_products: "Top Grossing Products"
+  top_grossing_products: "Pirktāko produktu tops"
   total: "Kopā"
   tracking: Tracking
   transaction: "Transakcija"
@@ -1025,7 +1026,7 @@ lv:
   under_paid: "Under Paid"
   units: "Units"
   unrecognized_card_type: "Neatpazīstams kartes tips"
-  update: "Atjaunot"
+  update: "Izmainīt"
   update_password: "Atjaunot manu paroli un ielaist sistēmā"
   updated_successfully: "Veiksmīgi atjaunots"
   updating: "Atjaunojas"
@@ -1062,7 +1063,7 @@ lv:
   width: "Platums"
   year: "Gads"
   you_have_been_logged_out: "Jūs esat izgājis no sistēmas."
-  you_have_no_orders_yet: "You have no orders yet."
+  you_have_no_orders_yet: "Jums vēl nav neviena pasūtījuma."
   your_cart_is_empty: "Jūsu iepirkuma grozs ir tukšs"
   zip: "Pasta kods"
   zone: "Zona"
